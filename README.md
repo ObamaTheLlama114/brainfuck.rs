@@ -18,5 +18,5 @@ The compiled binary will be `/target/release/brainfuck`
 
 ### Running
 
-Run the brainfuck binary with a --filepath flag and a filepath to a brainfuck file
+Run the brainfuck binary with a `--filepath` flag and a filepath to a brainfuck file
 
